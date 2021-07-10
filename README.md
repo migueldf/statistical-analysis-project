@@ -64,3 +64,6 @@ The following deliverables should be pushed to your Github repo for this project
     2|Exceeds expectations, you wonderful creature, you!
 
 This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+
+## Link to deck
+https://docs.google.com/presentation/d/1aJ9IhUi58o6IURCqyGD6BZ5z2-2l_UjB7YURM-kMfp4/edit?usp=sharing
